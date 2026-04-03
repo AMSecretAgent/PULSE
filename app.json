@@ -24,6 +24,10 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "NEWS_API_KEY": "",
+      "GROQ_API_KEY": ""
     }
   }
 }
