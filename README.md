@@ -37,4 +37,4 @@ And then I added some fun stuff like Horoscope, Recipes, Study tips, Success Sto
 ---
 
 
-Make a `.env` file:
+
