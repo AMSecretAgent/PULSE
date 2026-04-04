@@ -57,10 +57,17 @@ I wanted it to be something you'd actually open every day, not just when there's
 ---
 
 ## How to run it
-
+```bash
 git clone https://github.com/AMSecretAgent/PULSE.git
 cd PULSE
 npm install
+```
+
+Create a `.env` file in the root:
+```
+NEWS_API_KEY=your_key_here
+GROQ_API_KEY=your_key_here
+```
 
 Free keys at newsapi.org and console.groq.com
 ```bash
@@ -68,8 +75,6 @@ npx expo start
 ```
 
 Scan the QR with Expo Go on your phone.
-
----
 
 
 ## Track
