@@ -1,6 +1,6 @@
 # PULSE
 
-Okay so the idea was simple I was tired of reading news and still not getting what's actually going on.
+Okay so the idea was simple I was tired of reading news and still not getting what's actually going on adding to that was the 1 sided newz with utter bias.
 
 Every app just throws headlines at you. No context, no background, nothing. So I built PULSE.
 
