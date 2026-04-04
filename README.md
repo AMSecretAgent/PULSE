@@ -61,14 +61,14 @@ I wanted it to be something you'd actually open every day, not just when there's
 git clone https://github.com/AMSecretAgent/PULSE.git
 cd PULSE
 npm install
-Free keys at newsapi.org and console.groq.com
 
+Free keys at newsapi.org and console.groq.com
+```bash
 npx expo start
 ```
 
 Scan the QR with Expo Go on your phone.
 
----
 ---
 
 ## Track
