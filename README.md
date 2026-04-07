@@ -1,4 +1,4 @@
-# PULSE
+# PULSE...
 
 I built this because I was tired of reading news and still having no idea what was actually going on.
 
