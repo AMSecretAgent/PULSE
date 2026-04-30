@@ -56,7 +56,7 @@ I wanted it to be something you'd actually open every day, not just when there's
 
 ---
 
-## How to run it
+## How to run it-
 ```bash
 git clone https://github.com/AMSecretAgent/PULSE.git
 cd PULSE
