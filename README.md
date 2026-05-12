@@ -79,13 +79,13 @@ Scan the QR with Expo Go on your phone.
 
 ## Track
 
-Submitted under **Hack 'N' Solve** at Devcation Delhi 2026.
+Submitted under Women Innovators Transforming Challenges into Hope and Impact
 
-Domain: AI / EdTech / Social Impact
+
 
 ---
 
-Built by Akansha Mishra
+
 ```
 
 Create a `.env` file in the root:
