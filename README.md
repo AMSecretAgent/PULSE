@@ -79,8 +79,7 @@ Scan the QR with Expo Go on your phone.
 
 ## Track
 
-Submitted under Women Innovators Transforming Challenges into Hope and Impact
-
+Submitted under WitchHunt
 
 
 ---
